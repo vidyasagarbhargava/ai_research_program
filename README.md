@@ -20,3 +20,8 @@ This chapter implements the attention mechanism
 
 1. Dataset with class labels - Classifier
 2. Instruction Dataset - Personal Assistant
+
+
+## Important Papers
+
+[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
