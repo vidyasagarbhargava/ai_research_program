@@ -40,5 +40,6 @@ for epoch in range(n_epochs):
         w,b = model.parameters()
         print('epoch ', epoch+1, ': w = ', w[0][0].item(), ' loss = ', l.item())
 
+#4) Test the model
 print(f"Prediction after training : f({X_test.item()}) = {model(X_test).item():.3f}")
 
