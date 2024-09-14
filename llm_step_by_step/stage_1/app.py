@@ -92,7 +92,7 @@ st.markdown(
 @st.cache_data
 def load_embeddings():
     embeddings_index = {}
-    with open("glove.6B.100d.txt", encoding="utf-8") as f:
+    with open("glove_50d_truncated.txt", encoding="utf-8") as f:
         for line in f:
             values = line.split()
             word = values[0]
