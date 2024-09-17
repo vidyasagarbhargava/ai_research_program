@@ -26,7 +26,6 @@ LLM architecture uses multihead attention mechanism but before that we will reac
 4. Multi-head attention
 
 
-
 ## Simplified Self-Attention
 
 ![alt text](image-2.png)
