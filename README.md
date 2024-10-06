@@ -24,7 +24,7 @@
     <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f6e0.svg" width="24" height="24" alt="🛠️">
     NLP and LLM research
   </h2>
-  <p>The extension injects a content script (<code>content.js</code>) into web pages, which listens for messages from the extension's popup or background script. These messages trigger various functions to modify the page's appearance.</p>
+
   <h3>Stage 1 - Building an LLM:</h3>
   <ol>
     <li>Data Preparation and sampling</li>
