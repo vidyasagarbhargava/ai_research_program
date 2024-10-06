@@ -84,6 +84,5 @@
     <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f465.svg" width="24" height="24" alt="👥">
     Contact
   </h2>
-  <p>Your Name - <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-  <p>Project Link: <a href="https://github.com/yourusername/your-repo-name">https://github.com/yourusername/your-repo-name</a></p>
+  <p>Project Link: <a href="https://github.com/vidyasagarbhargava/ai_research_program">https://github.com/vidyasagarbhargava/ai_research_program</a></p>
 </div>
