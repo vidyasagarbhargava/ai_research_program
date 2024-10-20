@@ -1,28 +1,9 @@
-<head>
-  <!-- Include Google Fonts (optional, for 'Roboto') -->
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
-  
-  <style>
-    /* Gradient Text Class */
-    .gradient-text {
-      background: linear-gradient(90deg, #67b26f, #4da2c9); /* Define the gradient colors */
-      -webkit-background-clip: text; /* Clips the background to the text */
-      -webkit-text-fill-color: transparent; /* Makes the text color transparent to show the gradient */
-      font-family: 'Roboto', sans-serif; /* Optional: Apply the Roboto font */
-      font-size: 48px; /* Change this value to adjust the font size */
-      font-weight: bold; /* Makes the font bold */
-    }
-  </style>
-</head>
-
-<body>
-  <div style="text-align: center;">
-    <!-- Apply the gradient-text class -->
-    <span class="gradient-text">AI Research Program</span>
-  </div>
-</body>
-
-
+<div align="center">
+  <h1>
+    <img src="https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f4da.svg" width="32" height="32" alt="📚">
+    AI Research Program
+  </h1>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0">
