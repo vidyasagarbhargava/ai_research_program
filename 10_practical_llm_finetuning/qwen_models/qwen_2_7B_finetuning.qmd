@@ -1,0 +1,9 @@
+---
+title: "Qwen-2 7B Finetuning"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+
